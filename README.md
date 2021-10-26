@@ -22,7 +22,7 @@
 [output]:https://webpack.js.org/concepts/#output
 [loaders]:https://webpack.js.org/concepts/#loaders
 [plugins]:https://webpack.js.org/concepts/#plugins
-[modemode]:https://webpack.js.org/concepts/#mode
+[mode]:https://webpack.js.org/concepts/#mode
 [browser_compatibility]:https://webpack.js.org/concepts/#browser-compatibility
 
 [Manually_bundling_an_application]:https://www.youtube.com/watch?v=UNMkLHzofQI&ab_channel=WebTechTalks
